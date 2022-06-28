@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="477px" height="444px" viewBox="0 0 477 444" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>arrow-latest-reads</title>
+    <g id="Webpage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="WEBPAGE" transform="translate(187.000000, -3255.000000)" fill="#4AE472" fill-rule="nonzero">
+            <g id="Content" transform="translate(-393.000000, 2.000000)">
+                <g id="4---engagement-with-the-radar" transform="translate(206.000000, 2725.000000)">
+                    <g id="arrow-latest-reads" transform="translate(238.820647, 750.000000) scale(-1, 1) translate(-238.820647, -750.000000) translate(0.820647, 528.000000)">
+                        <path d="M0.1,405.47 C-0.518509701,408.996655 1.82703104,412.36083 5.35,413 L39.3,419.09 C42.8336669,419.720756 46.2111074,417.372205 46.85,413.84 L66.43,304.72 L175.56,324.3 C179.091666,324.936993 182.47134,322.591365 183.11,319.06 L189.2,285.06 C189.830438,281.528561 187.480796,278.154028 183.95,277.52 L35,251.6 C31.4876089,250.980883 28.133773,253.312044 27.49,256.82 L0.1,405.47 Z" id="Path"></path>
+                        <path d="M169.28,16.59 C282.5,-29.83 412.37,24.52 458.78,137.74 C505.19,250.96 450.84,380.82 337.63,427.24 C224.42,473.66 94.54,419.3 48.13,306.08 L90.73,288.62 C127.51,378.35 230.43,421.42 320.16,384.62 C409.89,347.82 452.96,244.91 416.16,155.18 C379.36,65.45 276.45,22.38 186.72,59.18 L169.28,16.59 Z" id="Path"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,150 @@
+[
+   {
+      "values":[
+         "Bürogebäude",
+         "Kreditinstitut",
+         "Versicherung",
+         "Geschäftsgebäude",
+         "Gebäude für Forschungszwecke",
+         "Gebäude für betriebliche Sozialeinrichtung",
+         "Verwaltungsgebäude",
+         "Parlament",
+         "Rathaus",
+         "Post",
+         "Zollamt",
+         "Gericht",
+         "Botschaft, Konsulat",
+         "Gebäude für Bildung und Forschung",
+         "Bibliothek, Bücherei",
+         "Gebäude für Gesundheitswesen",
+         "Gebäude für soziale Zwecke",
+         "Freizeit-, Vereinsheim, Dorfgemeinschafts-, Bürgerhaus",
+         "Gebäude für Sicherheit und Ordnung",
+         "Empfangsgebäude"
+      ],
+      "label":"Büro"
+   },
+   {
+      "values":[
+         "Kaufhaus",
+         "Einkaufszentrum",
+         "Laden",
+         "Gebäude für Wirtschaft oder Gewerbe",
+         "Gebäude für Handel und Dienstleistungen"
+      ],
+      "label":"Handel"
+   },
+   {
+      "values":[
+         "Gebäude für Handel und Dienstleistung mit Wohnen"
+      ],
+      "label":"Handel, Wohnen"
+   },
+   {
+      "values":[
+         "Wohngebäude",
+         "Wohnhaus",
+         "Wohnheim",
+         "Gemischt genutztes Gebäude mit Wohnen",
+         "Wohngebäude mit Gemeinbedarf",
+         "Wohngebäude mit Handel und Dienstleistungen",
+         "Wohngebäude mit Gewerbe und Industrie"
+      ],
+      "label":"Wohngebäude"
+   },
+   {
+      "values":[
+         "Kinderheim",
+         "Seniorenheim",
+         "Schwesternwohnheim",
+         "Gebäude für Beherbergung",
+         "Heilanstalt, Pflegeanstalt, Pflegestation",
+         "Obdachlosenheim",
+         "Justizvollzugsanstalt"
+      ],
+      "label":"Heim oder Anstalt"
+   },
+   {
+      "values":[
+         "Hotel, Motel, Pension"
+      ],
+      "label":"Hotel"
+   },
+   {
+      "values":[
+         "Gebäude für Gewerbe und Industrie",
+         "Sonstiges Gebäude für Gewerbe und Industrie",
+         "Gebäude für Gewerbe und Industrie mit Wohnen"
+      ],
+      "label":"Industrie"
+   },
+   {
+      "values":[
+         "Krankenhaus"
+      ],
+      "label":"Krankenhaus"
+   },
+   {
+      "values":[
+         "Gaststätte, Restaurant",
+         "Gebäude für Bewirtung",
+         "Kantine"
+      ],
+      "label":"Restaurant"
+   },
+   {
+      "values":[
+         "Allgemein bildende Schule",
+         "Kinderkrippe, Kindergarten, Kindertagesstätte",
+         "Berufsbildende Schule"
+      ],
+      "label":"Schule"
+   },
+   {
+      "values":[
+         "Badegebäude",
+         "Hallenbad",
+         "Badegebäude für medizinische Zwecke"
+      ],
+      "label":"Schwimmbad"
+   },
+   {
+      "values":[
+         "Sport-, Turnhalle"
+      ],
+      "label":"Sportstätte"
+   },
+   {
+      "values":[
+         "Hochschulgebäude (Fachhochschule, Universität)"
+      ],
+      "label":"Universität"
+   },
+   {
+      "values":[
+         "Gebäude zur Freizeitgestaltung",
+         "Freizeit- und Vergnügungsstätte",
+         "Festsaal",
+         "Kino",
+         "Kegel-, Bowlinghalle",
+         "Spielkasino",
+         "Gebäude für öffentliche Zwecke",
+         "Gebäude für kulturelle Zwecke",
+         "Schloss",
+         "Theater, Oper",
+         "Konzertgebäude",
+         "Museum",
+         "Rundfunk, Fernsehen",
+         "Veranstaltungsgebäude",
+         "Jugendfreizeitheim",
+         "Seniorenfreizeitstätte"
+      ],
+      "label":"Veranstaltungsgebäude"
+   },
+   {
+      "values":[
+         "Halle"
+      ],
+      "label":"Halle"
+   }
+]

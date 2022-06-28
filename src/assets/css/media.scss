@@ -1,0 +1,355 @@
+@media screen and (max-width: 600px) {
+	$fontL: 32px;
+	$fontM: 24px;
+	$fontS: 17px;
+	.badge,
+	.arrow-bg-home,
+	.arrow-events,
+	.arrow-reads,
+	.arrow-stories {
+		display: none;
+	}
+	section {
+		padding: 0px 22px;
+		height: auto!important;
+		min-height: 548px;
+	}
+	h1,
+	h2 {
+		font-size: $fontL!important;
+	}
+	h3 {
+		font-size: $fontM!important;
+	}
+	p {
+		font-size: $fontS!important;
+	}
+	.header {
+		height: 48px;
+		.logo {
+			height: 50px;
+			width: 50px;
+			margin-left: 0;
+		}
+	}
+	nav li a,
+	nav span {
+		display: none;
+	}
+	nav a.icon {
+		float: right;
+		display: block;
+		width: 30px;
+		height: 30px;
+		padding: 15px;
+	}
+	section[name="hero"] {
+		#textType {
+			font-size: $fontM!important;
+			max-width: 257px!important;
+		}
+		div p {
+			padding: 0!important;
+		}
+		#textType {
+			min-height: 150px;
+		}
+		.check {
+			margin-top: 0;
+		}
+		height: auto;
+		.logo {
+			height: 100px;
+		}
+		div.text-box,
+		div.intro,
+		h2 {
+			display: none!important;
+		}
+		h1 {
+			span {
+				font-size: 32px;
+			}
+		}
+	}
+	section[name="survey"] { 
+		.check-button {
+			padding: 8px 60px;
+		}
+
+	}
+	section[name="challenge"] {
+		min-height: 1325px!important;
+		video {
+			display: none;
+		}
+		h2 {
+			padding-bottom: 0px!important;
+			padding-top: 50px!important;
+		}
+		.overlay ul {
+			flex-wrap: wrap!important;
+		}
+		.card {
+			margin-top: 50px;
+			min-height: auto!important;
+			padding: 0px 22px!important;
+			span {
+				height: 50px!important;
+				width: 50px!important;
+			}
+		}
+		p.change {
+			padding-top: 50px;
+			margin: 0;
+			font-size: $fontM!important;
+		}
+		.challenge-card {
+			height: auto!important;
+			padding: 20px 18px!important;
+			p {
+				margin: 10px 0px 0px 0px!important;
+				padding-bottom: 10px;
+			}
+		}
+	}
+	section[name="web-app"] {
+		.web-app {
+			padding: 0!important;
+			flex-wrap: wrap!important;
+			.left {}
+			.right {
+				 :first-child {
+					padding: 0!important;
+				}
+				 :last-child {
+					padding-bottom: 50px!important;
+				}
+				margin-left: 0!important;
+				padding: 0!important;
+				margin-top: 50%;
+				.text {
+					padding-bottom: 20px;
+				}
+			}
+		}
+		iframe {
+			width: 100%;
+			height: 100%;
+		}
+	}
+	section[name="heatRadar"] {
+		.intro {
+			padding: 50px 0px!important;
+		}
+		.item {
+			flex-wrap: wrap;
+			justify-content: center!important;
+			margin: 0!important;
+			padding: 20px 0px;
+			div.text-bold {
+				text-align: center!important;
+				font-size: $fontS;
+				min-width: 100%;
+				padding-left: 0px!important;
+			}
+			.checkMark {
+				background-position: center;
+			}
+		}
+		.grid {
+			grid-template-columns: auto;
+			padding: 0!important;
+			.grid-item {
+				font-size: $fontM!important;
+				margin-left: 0!important;
+				padding: 0!important;
+				p {
+					font-size: $fontM;
+				}
+				img {
+					max-width: 100%;
+					max-height: 100%;
+				}
+			}
+		}
+	}
+	section[name="stories"] {
+		.grid {
+			row-gap: 50px;
+			margin-top: 50px!important;
+			grid-template-columns: auto!important;
+			.grid-item {
+				padding: 0px!important;
+				p {
+					padding: 25px 0px;
+				}
+			}
+		}
+		p.quelle {
+			padding: 25px 12px!important;
+			line-height: 16px;
+		}
+		p.explore {
+			padding-bottom: 40px;
+		}
+		.storie {
+			margin: 0px!important;
+			height: auto!important;
+			width: auto!important;
+			ul {
+				float: left!important;
+			}
+		}
+		.image {
+			display: block!important;
+			margin: 0 auto!important;
+			float: none!important;
+		}
+	}
+	section[name="doGood"] {
+		background-size: cover!important;
+		min-height: 1040px!important;
+		h2 {
+			width: 100%;
+		}
+		.item {
+			width: 100%!important;
+			height: 200px!important;
+			//background-size: contain!important;
+			background-repeat: no-repeat;
+		}
+	}
+	section[name="partners"] {
+		.item {
+			width: 100%!important;
+			height: 100%!important;
+		}
+		p {
+			text-align: left!important;
+		}
+		.wrap {
+			padding-top: 50px!important;
+			.image {
+				height: 100px!important;
+			}
+		}
+		.left {
+			margin-top: 50px!important;
+		}
+		.right {
+			p.text {
+				padding: 20px;
+			}
+			a.quelle {
+				display: block;
+				margin: 0 auto;
+				width: 100%;
+			}
+		}
+	}
+	#contact {
+		min-height: auto!important;
+	}
+	#footer {
+		padding: 0px 22px!important;
+		ul {
+			padding-left: 20px;
+			margin-top: 50px;
+		}
+		.row {
+			flex-wrap: wrap;
+		}
+		.col-sm-4 {
+			width: 100%!important;
+		}
+		.logo-footer {
+			overflow: visible!important;
+			max-height: 200px!important;
+			margin: 0 auto!important;
+			background-position: center center!important;
+		}
+		.col-sm-4 {
+			padding-left: 0px!important;
+		}
+		.logo-footer p {
+			display: none!important;
+		}
+		#menu-main-nav-1 {
+			margin-top: 25px;
+		}
+		.txt-block {
+			max-width: 100%!important;
+			padding: 0px 20px!important;
+			word-break: break-all;
+		}
+		.top {
+			margin: 0!important;
+		}
+		.container {
+			padding-bottom: 0px!important;
+		}
+		.hidden-xs p {
+			float: left!important;
+		}
+	}
+	section[name="partners"] {
+		.wrap .item {
+			max-width: 360px;
+			margin: 0 auto;
+		}
+	}
+	#footer .logo-footer {
+		display: none!important;
+	}
+}
+
+
+/* The "responsive" class is added to the topnav with JavaScript when the user clicks on the icon. This class makes the topnav look good on small screens (display the links vertically instead of horizontally) */
+
+@media screen and (max-width: 600px) {
+	nav {
+		position: relative;
+	}
+	nav a.icon {
+		position: absolute;
+		right: 0;
+		top: 0;
+	}
+	nav span a {
+		float: none;
+		display: block;
+		text-align: left;
+	}
+}
+
+
+   @media only screen and (min-device-width: 600px) and (max-device-width: 1180px)  {
+      /* For portrait layouts only */
+	  section[name="partners"] {
+		  height: 1000px!important;
+	 .description {
+			padding: 0px 20px!important;
+		}
+		.item {
+			padding: 0px 5px;
+			position: relative;
+			width: 520px!important;
+			height: 330px!important;
+			.right {
+				display: flex;
+				flex-direction: column;
+				.quelle {
+					bottom: 0;
+					position: absolute;
+				}
+			} 
+		}
+
+	  }		  
+	  section[name="survey"] {
+		p {
+			padding: 20px 20px 50px 20px!important;
+		}
+	  }
+    }

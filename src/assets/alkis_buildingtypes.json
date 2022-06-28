@@ -1,0 +1,275 @@
+[
+   {
+      "values":[
+         "Bürogebäude",
+         "Kreditinstitut",
+         "Versicherung",
+         "Geschäftsgebäude",
+         "Gebäude für Forschungszwecke",
+         "Gebäude für betriebliche Sozialeinrichtung",
+         "Straßenmeisterei",
+         "Betriebsgebäude des Güterbahnhofs",
+         "Betriebsgebäude für Flugverkehr",
+         "Betriebsgebäude für Schiffsverkehr",
+         "Toilette",
+         "Verwaltungsgebäude",
+         "Parlament",
+         "Rathaus",
+         "Post",
+         "Zollamt",
+         "Gericht",
+         "Botschaft, Konsulat",
+         "Gebäude für Bildung und Forschung",
+         "Bibliothek, Bücherei",
+         "Gebäude für Gesundheitswesen",
+         "Gebäude für Sicherheit und Ordnung",
+         "Polizei",
+         "Feuerwehr",
+         "Kaserne",
+         "Friedhofsgebäude",
+         "Empfangsgebäude"
+      ],
+      "label":"Büro"
+   },
+   {
+      "values":[
+         "Gebäude für Wirtschaft oder Gewerbe",
+         "Gebäude für Handel und Dienstleistungen",
+         "Kaufhaus",
+         "Einkaufszentrum",
+         "Markthalle",
+         "Laden",
+         "Kiosk"
+      ],
+      "label":"Einzelhandel"
+   },
+   {
+      "values":[
+         "Gebäude für Handel und Dienstleistung mit Wohnen"
+      ],
+      "label":"Einzelhandel, Wohnen"
+   },
+   {
+      "values":[
+         "Gemischt genutztes Gebäude mit Wohnen",
+         "Wohngebäude mit Gemeinbedarf",
+         "Wohngebäude mit Handel und Dienstleistungen",
+         "Wohngebäude mit Gewerbe und Industrie",
+         "Land- und forstwirtschaftliches Wohngebäude",
+         "Land- und forstwirtschaftliches Wohn- und Betriebsgebäude",
+         "Forsthaus",
+         "Gebäude für Kurbetrieb",
+         "Sanatorium"
+      ],
+      "label":"Gemischte Wohngebäude"
+   },
+   {
+      "values":[
+         "Empfangsgebäude des Zoos",
+         "Empfangsgebäude des botanischen Gartens"
+      ],
+      "label":"Halle"
+   },
+   {
+      "values":[
+         "Kinderheim",
+         "Seniorenheim",
+         "Schwesternwohnheim",
+         "Studenten-, Schülerwohnheim",
+         "Gebäude für Beherbergung",
+         "Heilanstalt, Pflegeanstalt, Pflegestation",
+         "Gebäude für soziale Zwecke",
+         "Obdachlosenheim",
+         "Justizvollzugsanstalt"
+      ],
+      "label":"Heim oder Anstalt"
+   },
+   {
+      "values":[
+         "Hotel, Motel, Pension"
+      ],
+      "label":"Hotel"
+   },
+   {
+      "values":[
+         "Gebäude für Gewerbe und Industrie",
+         "Fabrik",
+         "Werkstatt",
+         "Tankstelle",
+         "Gebäude für Vorratshaltung",
+         "Kühlhaus",
+         "Speichergebäude",
+         "Lagerhalle, Lagerschuppen, Lagerhaus",
+         "Speditionsgebäude",
+         "Sonstiges Gebäude für Gewerbe und Industrie",
+         "Gebäude für Gewerbe und Industrie mit Wohnen",
+         "Werft (Halle)",
+         "Gebäude zur Versorgung",
+         "Gebäude zur Wasserversorgung",
+         "Wasserwerk",
+         "Pumpstation",
+         "Wasserbehälter",
+         "Gebäude zur Elektrizitätsversorgung",
+         "Elektrizitätswerk",
+         "Umspannwerk",
+         "Umformer",
+         "Gebäude für Fernmeldewesen",
+         "Gebäude an unterirdischen Leitungen",
+         "Gaswerk",
+         "Heizwerk",
+         "Pumpwerk (nicht für Wasserversorgung)",
+         "Gebäude zur Entsorgung",
+         "Gebäude zur Abwasserbeseitigung",
+         "Gebäude der Kläranlage",
+         "Gebäude zur Abfallbehandlung",
+         "Gebäude zur Müllverbrennung",
+         "Gebäude der Abfalldeponie",
+         "Gebäude für Land- und Forstwirtschaft",
+         "Land- und forstwirtschaftliches Betriebsgebäude",
+         "Treibhaus",
+         "Gewächshaus, verschiebbar",
+         "Forschungsinstitut",
+         "Krematorium",
+         "Bahnhofsgebäude",
+         "Flughafengebäude",
+         "Gebäude zum U-Bahnhof",
+         "Gebäude zum S-Bahnhof",
+         "Gebäude zum Busbahnhof",
+         "Gewächshaus (Botanik)"
+      ],
+      "label":"Industrie"
+   },
+   {
+      "values":[
+         "Krankenhaus"
+      ],
+      "label":"Krankenhaus"
+   },
+   {
+      "values":[
+         "Gebäude für Bewirtung",
+         "Gaststätte, Restaurant",
+         "Kantine"
+      ],
+      "label":"Restaurant"
+   },
+   {
+      "values":[
+         "Schullandheim",
+         "Allgemeinbildende Schule",
+         "Berufsbildende Schule",
+         "Kinderkrippe, Kindergarten, Kindertagesstätte"
+      ],
+      "label":"Schule"
+   },
+   {
+      "values":[
+         "Badegebäude",
+         "Hallenbad",
+         "Gebäude im Freibad",
+         "Badegebäude für medizinische Zwecke"
+      ],
+      "label":"Schwimmbad"
+   },
+   {
+      "values":[
+         "Gebäude für Erholungszwecke",
+         "Gebäude für Sportzwecke",
+         "Sport-, Turnhalle",
+         "Gebäude zum Sportplatz"
+      ],
+      "label":"Sportstätte"
+   },
+   {
+      "values":[
+         "Campingplatzgebäude",
+         "Windmühle",
+         "Wassermühle",
+         "Schöpfwerk",
+         "Betriebsgebäude zu Verkehrsanlagen (allgemein)",
+         "Betriebsgebäude für Straßenverkehr",
+         "Wartehalle",
+         "Betriebsgebäude für Schienenverkehr",
+         "Lokschuppen, Wagenhalle",
+         "Stellwerk, Blockstelle",
+         "Flugzeughalle",
+         "Dock (Halle)",
+         "Betriebsgebäude zur Schleuse",
+         "Bootshaus",
+         "Gebäude zum Parken",
+         "Parkhaus",
+         "Parkdeck",
+         "Garage",
+         "Fahrzeughalle",
+         "Tiefgarage",
+         "Müllbunker",
+         "Scheune",
+         "Schuppen",
+         "Stall",
+         "Scheune und Stall",
+         "Stall für Tiergroßhaltung",
+         "Jagdhaus, Jagdhütte",
+         "Burg, Festung",
+         "Stall im Zoo",
+         "Schutzhütte"
+      ],
+      "label":"unbeheizt"
+   },
+   {
+      "values":[
+         "Hochschulgebäude (Fachhochschule, Universität)"
+      ],
+      "label":"Universität"
+   },
+   {
+      "values":[
+         "Gebäude zur Freizeitgestaltung",
+         "Messehalle",
+         "Freizeit- und Vergnügungsstätte",
+         "Festsaal",
+         "Kino",
+         "Kegel-, Bowlinghalle",
+         "Spielkasino",
+         "Gebäude für öffentliche Zwecke",
+         "Gebäude für kulturelle Zwecke",
+         "Schloss",
+         "Theater, Oper",
+         "Konzertgebäude",
+         "Museum",
+         "Rundfunk, Fernsehen",
+         "Veranstaltungsgebäude",
+         "Gebäude für religiöse Zwecke",
+         "Kirche",
+         "Synagoge",
+         "Kapelle",
+         "Gemeindehaus",
+         "Gotteshaus",
+         "Moschee",
+         "Jugendfreizeitheim",
+         "Freizeit-, Vereinsheim, Dorfgemeinschafts-, Bürgerhaus",
+         "Seniorenfreizeitstätte",
+         "Schutzbunker",
+         "Trauerhalle",
+         "Gebäude im Zoo",
+         "Aquarium, Terrarium, Voliere",
+         "Tierschauhaus",
+         "Gebäude im botanischen Garten",
+         "Pflanzenschauhaus"
+      ],
+      "label":"Veranstaltungsgebäude"
+   },
+   {
+      "values":[
+         "Wohngebäude",
+         "Wohnhaus",
+         "Wohnheim",
+         "Ferienhaus",
+         "Wochenendhaus",
+         "Gartenhaus",
+         "Jugendherberge",
+         "Bahnwärterhaus",
+         "Gebäude für öffentliche Zwecke mit Wohnen"
+      ],
+      "label":"Wohngebäude"
+   }
+]

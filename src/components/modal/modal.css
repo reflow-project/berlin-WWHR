@@ -1,0 +1,98 @@
+:deep .vfm {
+  z-index: 10004 !important;
+}
+
+:deep .vfm__overlay {
+  background-color: rgba(13, 36, 81, 0.90) !important;
+}
+
+:deep .modal-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+:deep .modal-content {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  max-height: 90%;
+  margin: 0 1rem;
+  padding: 1rem;
+}
+
+.modal__title {
+  margin: 0 2rem 0 0;
+  font-size: 1.7rem;
+  font-weight: 700;
+}
+
+.modal__content {
+  flex-grow: 1;
+  overflow-y: auto;
+}
+
+.modal__content input , .modal__content textarea {
+  font-size: 1.1rem;
+  font-weight: 500;
+  background-color: transparent;
+  color: white;
+  border: 1px solid #e2e8f0;
+  width: 18rem;
+  padding: 1% 2%;
+  font-family: 'Barlow', sans-serif;
+  resize: none;
+}
+.modal__content input {
+  color:black;
+}
+
+.modal__content #containerDataPrivacy {
+  width: 18rem;
+  margin: 0 auto;
+}
+
+.modal__content #checkboxDataPrivacy {
+  width: 1.3rem;
+  height: 1.3rem;
+  margin-right: 4%;
+}
+
+.modal__content #labelDataPrivacy {
+  font-size: 0.9rem;
+}
+
+.modal__content #emailLink {
+  text-decoration: underline;
+}
+
+.modal__content .confirmationText {
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.modal__action {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-shrink: 0;
+  padding: 1rem 0 0;
+}
+
+.modal__action > button {
+  margin-right: 1rem;
+  width: 10rem;
+  font-size: 1.1rem;
+}
+
+.modal__close {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background-color: transparent;
+}
+
+.modal__close > .material-icons {
+  font-size: 1.5rem;
+  font-weight: 900;
+}

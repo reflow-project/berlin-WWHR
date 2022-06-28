@@ -1,0 +1,8 @@
+@import "./variables.scss";
+@import "./fonts.scss";
+@import "./animation.scss";
+@import "./media.scss";
+
+* {
+    font-family: $barlow, sans-serif, Arial, Helvetica;
+}
