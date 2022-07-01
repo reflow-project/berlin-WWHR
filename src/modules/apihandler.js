@@ -2,11 +2,11 @@ var axios = require("axios");
 
 class ApiHandler {
   async getUserToken() {
-    const realm = 'reflow';
+    //const realm = 'reflow';
     const client_id = 'berlin_pilot_app';
-    const kcTokenEndpoint = `https://reflow.fokus.fraunhofer.de/keycloak/auth/realms/${realm}/protocol/openid-connect/token`;
-    const username = 'webapp_entity';
-    const password = 'ss5vdfg8sdaSf6IbK5kg92(1'
+    const kcTokenEndpoint = ''//insert tokenEndpoint
+    const username = ''//insert username
+    const password = ''//insert password
 
 
     const params = new URLSearchParams()
@@ -29,9 +29,9 @@ class ApiHandler {
   async getRPToken() {
     const token = await this.getUserToken();
 
-    const realm = 'reflow';
+    //const realm = 'reflow';
     const client_id = 'berlin_pilot_backend';
-    const kcTokenEndpoint = `https://reflow.fokus.fraunhofer.de/keycloak/auth/realms/${realm}/protocol/openid-connect/token`;
+    const kcTokenEndpoint = ''//insert keycloakEndpoint
 
     const params = new URLSearchParams()
     params.append('audience', client_id)

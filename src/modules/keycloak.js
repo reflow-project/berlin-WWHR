@@ -7,7 +7,7 @@ class KeycloakInitializer {
 
     await new Promise((resolve) => {
       let initOptions = {
-        url: 'https://reflow.fokus.fraunhofer.de/keycloak/auth',
+        url: '', //insert keycloak-instance URI
         realm: 'reflow',
         clientId: 'berlin_pilot_app',
         onLoad: 'login-required',
