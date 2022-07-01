@@ -1,6 +1,7 @@
 # WWHR Web App
 The Waste Water Heat Radar (WWHR) frontend application shows potentials that are based on waste water heat in the Berlin sewer system.
 These potentials are visualized on a map and can be matched with estimated consumptions for houses or areas in the respective region of Berlin.
+This published version of the App does offer _no_ display of real-time-data.
 
 ## Table of Contents
 ***
